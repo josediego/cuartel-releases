@@ -36,7 +36,7 @@ En la app: **Ajustes → Diagnóstico → Reportar problema**. Se abre un issue 
 
 ## Créditos
 
-- Blueprint de rutas: [Ceedsy](https://www.youtube.com/@ceedsy).
+- Blueprint de rutas: [Ceedsy](https://www.youtube.com/@CeedsyTV).
 - Cuartel es un proyecto independiente, sin afiliación con Blizzard Entertainment.
 
 ---
